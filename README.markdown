@@ -28,10 +28,12 @@ Usage
 Launch `animalfix.py`, select the directory of your Minecraft map and click "Lets do it!".
 Then you have to wait quite a long time. My map is ~ 50 MiB large and it took about 15 minutes to fix it (running on Fedora 14 with an Phenom II X4 965).
 
-Todo / Wishlist
----------------
+EXE version for Windows
+-----------------------
 
-* An "exefied" (you can not call this compiling for Python scripts IMHO...) version for Windows to make it easier for Windows users.
+There is an EXE file for Windows (32-bit, should also work on 64-bit), so you do not have to download Python and tons of other software.
+Just unzip the archive and execute mcanimalfix.exe.
+Download: <https://github.com/downloads/kch42/mcanimalfix/mcanimalfix_win32.zip>
 
 License
 -------
