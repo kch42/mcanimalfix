@@ -33,7 +33,7 @@ EXE version for Windows
 
 There is an EXE file for Windows (32-bit, should also work on 64-bit), so you do not have to download Python and tons of other software.
 Just unzip the archive and execute mcanimalfix.exe.
-Download: <https://github.com/downloads/kch42/mcanimalfix/mcanimalfix_win32.zip>
+Download: <https://github.com/downloads/silvasur/mcanimalfix/mcanimalfix_win32.zip>
 
 License
 -------
